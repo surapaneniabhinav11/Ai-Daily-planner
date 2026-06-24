@@ -1,0 +1,6 @@
+{
+  "name": "AI Timetable",
+  "description": "An AI-powered daily scheduler that optimizes your tasks, breaks, and meetings based on energy levels and priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
